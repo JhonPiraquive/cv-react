@@ -1,0 +1,232 @@
+{
+    "locales": {
+        "en": {
+            "title": "Experience",
+            "title_long_prefix": "Summary of my",
+            "title_long": "**Work** Experience"
+        },
+        "es": {
+            "title": "Experiencia",
+            "title_long_prefix": "Resumen de mi",
+            "title_long": "Experiencia **Laboral**"
+        }
+    },
+    "articles": [
+        {
+            "id": "work",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/place-4.jpg",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "dates": {
+                        "start": "06/01/2024",
+                        "end": "now"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Professor**",
+                            "info": "Manizales University",
+                            "text": "Teach different subjects such as Operating Systems, Databases, Office Tools, Website Optimization, SEO, and Software Analysis and Design.",
+                            "tags": []
+                        },
+                        "es": {
+                            "title": "**Profesor**",
+                            "info": "Universidad de Manizales",
+                            "text": "Enseñar diferentes asignaturas como Sistemas Operativos, Bases de Datos, Herramientas Ofimáticas, Optimización de Sitios Web, SEO y Análisis y Diseño de Software.",
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/place-6.png",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "dates": {
+                        "start": "01/01/2022",
+                        "end": "now"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Senior** Developer",
+                            "info": "Heinsohn (CareTree)",
+                            "text": "<ul><li>Development Co-leader in a remote work environment with a team of 6 people.</li><li>Development of medical software, ensuring its functionality and efficiency.</li><li>Collaboration and participation in AWS architecture, ensuring a robust and scalable infrastructure.</li><li>Use of agile methodologies such as Scrum, using project management tools like Jira.</li><li>Use of Docker for container creation and management, optimizing application development and deployment.</li><li>Focus on cybersecurity, protecting data and systems, complying with computer security standards.</li></ul>",
+                            "tags": [
+                                "PHP",
+                                "MySQL",
+                                "Laravel",
+                                "MariaDB",
+                                "AWS",
+                                "Microservices",
+                                "Integrations",
+                                "React Native",
+                                "Go",
+                                "GraphQL",
+                                "Livewire",
+                                "Vue"
+                            ]
+                        },
+                        "es": {
+                            "title": "Desarrollador **Senior**",
+                            "info": "Heinsohn (CareTree)",
+                            "text": "<ul><li>Colíder de Desarrollo en un entorno de trabajo remoto con un equipo de 6 personas.</li><li>Desarrollo software médico, garantizando su funcionalidad y eficiencia.</li><li>Colaboración y participación con la arquitectura en AWS, asegurando una infraestructura robusta y escalable.</li><li>Uso de metodologías ágiles como Scrum, utilizando herramientas de gestión de proyectos como Jira.</li><li>Uso de Docker para la creación y manejo de contenedores, optimizando el desarrollo y la implementación de aplicaciones.</li><li>Enfoque en ciberseguridad, protegiendo datos y sistemas, cumpliendo con estándares de seguridad informática.</li></ul>",
+                            "tags": [
+                                "PHP",
+                                "MySQL",
+                                "Laravel",
+                                "MariaDB",
+                                "AWS",
+                                "Micro Servicios",
+                                "Integraciones",
+                                "React Native",
+                                "Go",
+                                "GraphQL",
+                                "Livewire",
+                                "Vue"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/place-7.png",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "dates": {
+                        "start": "01/01/2021",
+                        "end": "02/01/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Web** Developer",
+                            "info": "QVO Consultoría y Estrategía S.A.S",
+                            "text": "<p>Develop the engineering process using agile methodologies such as Kanban and SCRUM, providing the client with full support from the very beginning with requirements gathering to the final stage with training and issue resolution. Delivering comprehensive and tailored solutions through the use of technologies focused on web development and relational database management (SQL). Development of information systems for the management of:</p><ul><li>Security Consultations</li><li>Electronic Systems Quotations</li><li>CRM</li><li>Security Companies' Armament</li><li>Security Companies' Personnel</li><li>Security Companies' Logistics</li><li>Media and Communications</li><li>Users and Intranet</li><li>Credit and Finance Management</li><li>Configurations</li><li>Strategy and Finance</li><li>Commercial Management</li><li>Indicators and Analysis</li></ul>",
+                            "tags": [
+                                "PHP",
+                                "MySQL",
+                                "Laravel",
+                                "MariaDB",
+                                "GCP",
+                                "Ionic",
+                                "MongoDB"
+                            ]
+                        },
+                        "es": {
+                            "title": "Desarrollador **Web**",
+                            "info": "QVO Consultoría y Estrategía S.A.S",
+                            "text": "<p>Desarrollar el proceso ingenieril mediante el uso de metodologías agiles como Kanban y SCRUM brindando al cliente un acompañamiento completo desde el primero momento con el levantamiento de requisitos hasta la última instancia con capacitaciones y solución de inquietudes; Brindando soluciones integrales y a la medida mediante el uso de tecnologías enfocadas al desarrollo web y manejo de bases de datos relacionales SQL. Desarrollo de sistemas de información para la gestión de:</p><ul><li>Consultorías de Seguridad</li><li>Cotizaciones de Sistemas Electrónicos</li><li>CRM</li><li>Armamento de empresas de seguridad</li><li>Personal de empresas de seguridad</li><li>Logística de empresas de seguridad</li><li>Medios de Comunicaciones</li><li>Usuarios e Intranet</li><li>Gestión Créditos y Finanzas</li><li>Parametrizaciones</li><li>Estrategía y Financiera</li><li>Gestión Comercial</li><li>Indicadores y Análisis</li></ul>",
+                            "tags": [
+                                "PHP",
+                                "MySQL",
+                                "Laravel",
+                                "MariaDB",
+                                "GCP",
+                                "Ionic",
+                                "MongoDB"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/place-8.png",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "dates": {
+                        "start": "01/01/2019",
+                        "end": "01/01/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Web** Developer",
+                            "info": "Business Solutions On The Cloud",
+                            "text": "<p>Provide comprehensive and tailored solutions through the use of technologies focused on web development and relational database management (SQL). Development of information systems for the management of:</p><ul><li>Electronic Systems Quotations</li><li>CRM</li><li>Configurations</li><li>Users and Intranet</li><li>Credit and Finance Management</li><li>Strategy and Finance</li><li>Commercial Management</li></ul>",
+                            "tags": [
+                                "PHP",
+                                "MySQL",
+                                "Laravel",
+                                "MariaDB",
+                                "GCP",
+                                "Ionic",
+                                "MongoDB"
+                            ]
+                        },
+                        "es": {
+                            "title": "Desarrollador **Web**",
+                            "info": "Business Solutions On The Cloud",
+                            "text": "<p>Brindar soluciones integrales y a la medida mediante el uso de tecnologías enfocadas al desarrollo web y manejo de bases de datos relacionales SQL. Desarrollo de sistemas de información para la gestión de:</p><ul><li>Cotizaciones de Sistemas Electrónicos</li><li>CRM</li><li>Parametrizaciones</li><li>Usuarios e Intranet</li><li>Gestión Créditos y Finanzas</li><li>Estrategía y Financiera</li><li>Gestión Comercial</li></ul>",
+                            "tags": [
+                                "PHP",
+                                "MySQL",
+                                "Laravel",
+                                "MariaDB",
+                                "GCP",
+                                "Ionic",
+                                "MongoDB"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/place-none.webp",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "dates": {
+                        "start": "01/01/2018",
+                        "end": "01/01/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Web** Developer",
+                            "info": "ASAP Staffing Company",
+                            "text": "<p>Remotely provide a comprehensive and tailored solution through the use of technologies focused on web development and relational database management (SQL) to manage an intranet with a CRM, enabling the administration and management of temporary jobs. Development of information systems for the management of:</p><ul><li>Users and Intranet</li><li>Configurations</li><li>CRM</li></ul>",
+                            "tags": [
+                                "PHP",
+                                "MySQL",
+                                "Laravel",
+                                "MariaDB"
+                            ]
+                        },
+                        "es": {
+                            "title": "Desarrollador **Web**",
+                            "info": "ASAP Staffing Company",
+                            "text": "<p>De manera remota Brindandar una solución integral y a la medida mediante el uso de tecnologías enfocadas al desarrollo web y manejo de bases de datos relacionales SQL, para llevar acabo el manejo de una intranet con un CRM para tener la capacidad de administrar y manejar empleos temporales. Desarrollo de sistemas de información para la gestión de:</p><ul><li>Usuarios e Intranet</li><li>Parametrizaciones</li><li>CRM</li></ul>",
+                            "tags": [
+                                "PHP",
+                                "MySQL",
+                                "Laravel",
+                                "MariaDB"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

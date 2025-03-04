@@ -1,0 +1,178 @@
+{
+    "locales": {
+        "en": {
+            "title": "Awards",
+            "title_menu": "Achievements",
+            "title_long_prefix": "Here are my",
+            "title_long": "Career **Achievements**"
+        },
+        "es": {
+            "title": "Certificaciones",
+            "title_menu": "Certificaciones",
+            "title_long_prefix": "Aquí están mis",
+            "title_long": "**Certificaciones**"
+        }
+    },
+    "articles": [
+        {
+            "id": "certifications",
+            "component": "ArticleCards",
+            "config": {},
+            "locales": {
+                "en": {
+                    "title": "Certifications"
+                },
+                "es": {
+                    "title": "Certificaciones"
+                }
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-certificate",
+                        "faColors": {
+                            "bg": "#326CE5",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "dates": {
+                        "start": null,
+                        "end": null
+                    },
+                    "links": [
+                        {
+                            "string": "see_certification",
+                            "href": "https://drive.google.com/file/d/19C0HG6eHHRVfTWffaRxqsGtviSC-Lsl7/view?usp=drive_link"
+                        }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Systems Technician**",
+                            "text": "Certified as Systems Technician (SENA)"
+                        },
+                        "es": {
+                            "text": "Certificado como Técnico en Sistemas (SENA)"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-certificate",
+                        "faColors": {
+                            "bg": "#326CE5",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "dates": {
+                        "start": null,
+                        "end": null
+                    },
+                    "links": [
+                        {
+                            "string": "see_certification",
+                            "href": "https://drive.google.com/file/d/1rBck6SZqnzn7C6d9WQX9PBgR37mZ1U_H/view?usp=drive_link"
+                        }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Internal Auditor ISO 27001**",
+                            "text": "Certified as Internal Auditor ISO 27001:2022"
+                        },
+                        "es": {
+                            "text": "Certificado como Auditor Interno ISO 27001:2022"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-certificate",
+                        "faColors": {
+                            "bg": "#326CE5",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "dates": {
+                        "start": null,
+                        "end": null
+                    },
+                    "links": [
+                        {
+                            "string": "see_certification",
+                            "href": "https://drive.google.com/file/d/1ZtfgMrjC0IfiUPzwf_-gml_pyfbqHju4/view?usp=drive_link"
+                        }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**English Certificate**",
+                            "text": "English Speaker"
+                        },
+                        "es": {
+                            "text": "Hablante de Inglés"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-certificate",
+                        "faColors": {
+                            "bg": "#326CE5",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "dates": {
+                        "start": null,
+                        "end": null
+                    },
+                    "links": [
+                        {
+                            "string": "see_certification",
+                            "href": "https://drive.google.com/file/d/1mNjY4NkvuKmFnq7MyeN7Z7OoRoafK3tx/view?usp=drive_link"
+                        }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Participant**",
+                            "text": "Technification with Arduino"
+                        },
+                        "es": {
+                            "text": "Tecnificación con Arduino"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-certificate",
+                        "faColors": {
+                            "bg": "#326CE5",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "dates": {
+                        "start": null,
+                        "end": null
+                    },
+                    "links": [
+                        {
+                            "string": "see_certification",
+                            "href": "https://drive.google.com/file/d/1WYz9kGE_EOgbNvk-3E9ve9gdDRHiazGg/view?usp=drive_link"
+                        }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Participant**",
+                            "text": "Simulators focused on learning"
+                        },
+                        "es": {
+                            "text": "Simuladores enfocados en aprendizaje"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

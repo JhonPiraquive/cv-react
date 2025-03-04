@@ -1,0 +1,156 @@
+{
+    "locales": {
+        "en": {
+            "title": "Education",
+            "title_long_prefix": "This is my",
+            "title_long": "**Educational** Background"
+        },
+
+        "es": {
+            "title": "Educación",
+            "title_long_prefix": "Esta es mi",
+            "title_long": "**Formación** Educativa"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "academic",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/place-1.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "01/01/2024",
+                        "end": "04/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Specialization** in Cybersecurity",
+                            "info": "Catholic Unversity of Manizales",
+                            "text": "Earned a Specialization's degree in Cybersecurity.",
+                            "tags": ["Cybersecurity", "Pentesting", "Incident Response"]
+                        },
+                        "es": {
+                            "title": "**Especialización** en Ciberseguridad",
+                            "info": "Universidad Catolica de Manizales",
+                            "text": "Obtuve una especialización en Ciberseguridad.",
+                            "tags": null
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/place-5.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "08/01/2024",
+                        "end": "09/01/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Course** in Internal Auditor in Information Security Management Systems, Cybersecurity, and Privacy Protection ISO/IEC 27001:2022",
+                            "info": "Bureau Veritas",
+                            "text": "Earned a degree as Internal Auditor in Information Security Management Systems, Cybersecurity, and Privacy Protection ISO/IEC 27001:2022.",
+                            "tags": ["Cybersecurity", "Pentesting", "Incident Response", "ISO 27001:2022"]
+                        },
+                        "es": {
+                            "title": "**Curso** de Auditor interno en sistemas de la seguridad de la información, ciberseguridad y protección de la privacidad ISO/IEC 27001:2022",
+                            "info": "Bureau Veritas",
+                            "text": "Obtuve una certificación como Auditor interno en sistemas de la seguridad de la información, ciberseguridad y protección de la privacidad ISO/IEC 27001:2022.",
+                            "tags": null
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/place-4.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "01/01/2017",
+                        "end": "12/01/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Bachelor** in Systems and Telecommunications Engineering",
+                            "info": "Manizales University",
+                            "text": "Earned a Bachelor's degree in Systems and Telecommunications Engineering.",
+                            "tags": ["Databases", "Development"]
+                        },
+                        "es": {
+                            "title": "**Pregrado** en Ingenieria en sistemas y telecomunicaciones",
+                            "info": "Universidad de Manizales",
+                            "text": "Obtuve un pregrado en Ingenieria en sistemas y telecomunicaciones.",
+                            "tags": null
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/place-2.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "01/01/2011",
+                        "end": "12/01/2016"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Technician** in Systems",
+                            "info": "National Learning Service (SENA)",
+                            "text": "Earned a Bachelor's degree in Systems.",
+                            "tags": ["Repairing", "Boot", "Operative Systems"]
+                        },
+                        "es": {
+                            "title": "**Técnico** en Sistemas",
+                            "info": "Servicio Nacional de Aprendizaje (SENA)",
+                            "text": "Obtuve un técnico en sistemas.",
+                            "tags": ["Reparación", "Formateo", "Sistemas Operativos"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/place-3.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "01/01/2013",
+                        "end": "01/01/2016"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Diploma Course** in English",
+                            "info": "Autonoma University",
+                            "text": "Earned a Diploma course in english",
+                            "tags": ["Languages", "English"]
+                        },
+                        "es": {
+                            "title": "**Diplomado** en Inglés",
+                            "info": "Universidad Autonoma",
+                            "text": "Obtuve un diplomado de inglés",
+                            "tags": ["Lenguajes", "Inglés"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

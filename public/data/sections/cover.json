@@ -1,0 +1,326 @@
+{
+    "locales": {
+        "en": {
+            "title": "Welcome!",
+            "title_menu": "About me",
+            "title_long_prefix": "Hello...",
+            "title_long": "I'm **Alejandro Piraquive!**"
+        },
+
+        "es": {
+            "title": "¡Saludos!",
+            "title_menu": "Sobre mí",
+            "title_long_prefix": "Hola...",
+            "title_long": "Soy **Alejandro Piraquive!**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "ignorePaddingTop": true,
+                "format": "inline"
+            },
+            "locales": {
+                "en": {},
+                "es": {}
+            },
+
+            "items": [
+                {
+                    "value": "Manizales, Caldas – Colombia",
+                    "links": [
+                        {"href": null}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-city",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "jhonalejandropiraquiveramirez@gmail.com",
+                    "links": [
+                        {"href": "mailto:jhonalejandropiraquiveramirez@gmail.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "@JhonPiraquive",
+                    "links": [
+                        {"href": "https://github.com/JhonPiraquive"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "short_description",
+            "component": "ArticleInfoBlock",
+            "config": {},
+            "locales": {
+                "en": {"title": "**A little bit** about me..."},
+                "es": {"title": "**Un poco** sobre mí..."}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/svg/logo.svg",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"text": "<p>I am a systems and telecommunications engineer with experience in software development, computer maintenance, networking, and teaching. <br><br>I am passionate about technological innovation and stand out for my adaptability, proactivity, and leadership skills.<br>I have experience in multiple programming languages and expertise in both backend and frontend development, allowing me to tackle a wide range of projects with flexibility and efficiency.<br><br><b>I look forward to collaborating with you!</b></p>"},
+                        "es": {"text": "<p>Soy ingeniero en sistemas y telecomunicaciones con experiencia en desarrollo de software, mantenimiento de computadoras, redes y docencia. <br><br>Me apasiona la innovación tecnológica y me destaco por mi capacidad de adaptación, proactividad y habilidades de liderazgo.<br>Cuento con experiencia en múltiples lenguajes de programación y conocimientos tanto en backend como en frontend, lo que me permite abordar una amplia variedad de proyectos con flexibilidad y eficiencia.<br><br><b>¡Espero colaborar contigo!</b></p>"}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "testimonials",
+            "component": "ArticleTestimonials",
+            "config": {},
+            "locales": {
+                "en": {"title": "Client **testimonials**"},
+                "es": {"title": "Testimonios de **clientes**"}
+            },
+
+            "items": [
+                {
+                    "value": "Siena Stetson",
+                    "links": [
+                        {"href": "https://www.linkedin.com/in/sienastetson/"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-1.png",
+                        "fa": "fa-solid fa-user",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Associate Product Manager at <b>CareTree</b>",
+                            "text": null
+                        },
+                        "es": {
+                            "info": "Gerente Asociado de Producto en <b>CareTree</b>",
+                            "text": null
+                        }
+                    }
+                },
+
+                {
+                    "value": "Katie Buell",
+                    "links": [
+                        {"href": "https://www.linkedin.com/in/kbuell287/"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-2.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Product Manager at <b>TheKey</b>",
+                            "text": null
+                        },
+                        "es": {
+                            "info": "Gerente de Producto en <b>TheKey</b>",
+                            "text": null
+                        }
+                    }
+                },
+
+                {
+                    "value": "César Granada",
+                    "links": [
+                        {"href": "https://www.linkedin.com/in/cesargranada/"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-3.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Project Manager at <b>Heinsohn</b>",
+                            "text": null
+                        },
+                        "es": {
+                            "info": "Gerente de Proyectos en <b>Heinsohn</b>",
+                            "text": null
+                        }
+                    }
+                },
+
+                {
+                    "value": "Carl Hirschman",
+                    "links": [
+                        {"href": "https://www.linkedin.com/in/chirschman/"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-3.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "President at <b>CareTree</b>",
+                            "text": null
+                        },
+                        "es": {
+                            "info": "Presidente en <b>CareTree</b>",
+                            "text": null
+                        }
+                    }
+                },
+
+                {
+                    "value": "Julio Garcés",
+                    "links": [
+                        {"href": "https://www.linkedin.com/in/julio-c%C3%A9sar-garc%C3%A9s-rios-a9013b37/"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-3.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Founder Partner at <b>BSCloud</b>",
+                            "text": null
+                        },
+                        "es": {
+                            "info": "Socio Fundador en <b>BSCloud</b>",
+                            "text": null
+                        }
+                    }
+                },
+
+                {
+                    "value": "Daniel Duque",
+                    "links": [
+                        {"href": "https://www.linkedin.com/in/jesus-daniel-duque-loaiza-2a4535117/"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-3.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Founder Partner at <b>BSCloud</b>",
+                            "text": null
+                        },
+                        "es": {
+                            "info": "Socio Fundador en <b>BSCloud</b>",
+                            "text": null
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "interests",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Personal **interests**"},
+                "es": { "title": "Intereses **personales**" }
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-motorcycle",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Ride motorcycle",
+                            "info": "Traveling on my motorcycle."
+                        },
+                        "es": {
+                            "title": "Manejar Motocicleta",
+                            "info": "Viajando en mi motocicleta."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-chalkboard-teacher",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Teaching",
+                            "info": "Teaching to reinforce and share my knowledge."
+                        },
+                        "es": {
+                            "title": "Enseñanza",
+                            "info": "Enseñar para reforzar y compartir mis conocimientos."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-code",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Coding",
+                            "info": "Exploring new tech stacks."
+                        },
+                        "es": {
+                            "title": "Codificación",
+                            "info": "Explorando nuevas tecnologías."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-graduation-cap",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Learning",
+                            "info": "Studying new fields to complement my knowledge."
+                        },
+                        "es": {
+                            "title": "Aprendizaje",
+                            "info": "Estudiando nuevos campos de complemento a mis conocimientos."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
